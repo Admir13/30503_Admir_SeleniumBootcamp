@@ -1,7 +1,9 @@
 ### Java template
 .idea
 *.iml
-/out
+*target
+reports
+
 # Compiled class file
 *.class
 
